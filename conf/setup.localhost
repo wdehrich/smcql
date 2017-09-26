@@ -16,4 +16,4 @@ host=localhost
 port=5432
 db=smcql_testDB
 user=smcql
-password=<insert psql password>
+password=1234
